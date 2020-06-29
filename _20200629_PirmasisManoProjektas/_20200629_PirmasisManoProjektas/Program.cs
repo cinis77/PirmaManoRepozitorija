@@ -10,6 +10,11 @@ namespace _20200629_PirmasisManoProjektas
     {
         static void Main(string[] args)
         {
+            Pasisveikinti();
+        }
+
+        private static void Pasisveikinti()
+        {
             Console.WriteLine("Sveikas pasauli");
         }
     }
